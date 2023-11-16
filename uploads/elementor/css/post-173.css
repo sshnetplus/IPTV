@@ -4781,7 +4781,7 @@ body:not(.rtl) .elementor-173 .elementor-element.elementor-element-94c347c .elem
     }
 
     .elementor-173 .elementor-element.elementor-element-2c8f782d:not(.elementor-motion-effects-element-type-background), .elementor-173 .elementor-element.elementor-element-2c8f782d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-        background-position: -282px 0px;
+         /* background-position: -282px 0px; */
     }
 
     .elementor-173 .elementor-element.elementor-element-2c8f782d {
